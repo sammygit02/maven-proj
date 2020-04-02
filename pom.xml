@@ -22,7 +22,7 @@
     <groupId>webproject</groupId>
     <artifactId>webapp1</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <properties>
         <errai.version>2.3.2.Final</errai.version>
